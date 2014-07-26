@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 Page Not Found</title>
+<style type="text/css">
+<!--
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-color: #000000;
+}
+#wrapper {
+	text-align: left;
+	width: 580px;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.title{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.linktext {	font-size: 12px
+}
+-->
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25202138-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+
+<div id="wrapper"><p align="center"><img src="leather detail small bottom.jpg" width="582" height="47" alt="Leather stock detail" longdesc="http://www.leatherstock.es" /></p>
+  <p align="center"><a href="index.html"><img src="stockleather Logo.gif" width="289" height="140" alt="Leatherstock.es" longdesc="http://www.leatherstock.es/index.htm" /></a></p>
+  <p class="title">406 Unacceptable</p>
+  <p>Upppsss ... Sorry! The page you requested is unavailable. Please use your browser's Back button, or go to the<a href="index.html"> home page.</a></p>
+  <p>If you need more Help Please Email Us : <a href="mailto:Info@StockLeather.Net">Info@StockLeather.Net</a></p>
+  <p><img src="leather detail small bottom.jpg" width="582" height="47" alt="Leather stock detail" longdesc="http://www.leatherstock.es" /></p>
+  </div>
+
+</body>
+</html>
